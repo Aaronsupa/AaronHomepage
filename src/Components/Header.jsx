@@ -14,11 +14,12 @@ const Header = () => {
         display: "flex",
         justifyContent: "center",
         gap: "2rem",
-        background: "rgba(255,255,255,0.75)",
+        background: "rgba(255, 251, 255, 0.8)",
         padding: "1rem",
         top: 0,
         width: "100%",
         zIndex: 10,
+        borderBottom: "1px solid #B4B4B3",
       }}
     >
       <a href="#home">Home</a>
